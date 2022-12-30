@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Database management with SQL and assembly-level programming**
 
 - 📫 Reach me at **ethanchung936@gmail.com**
+
+- 👨‍💻 Below you will find a collection of my personal and school projects
 <p align="left">
 </p>
 
