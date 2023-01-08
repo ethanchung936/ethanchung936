@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Completing my Bachelor of Computer Science at the University of Alberta**
 
-- 🌱 I’m currently learning **Database management with SQL and assembly-level programming**
+- 🌱 I’m currently learning **Database management with SQLite and assembly-level programming**
 
 - 📫 Reach me at **ethanchung936@gmail.com**
 
