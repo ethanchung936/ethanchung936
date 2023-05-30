@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
+<h1 align="center">Hi, I'm Ethan</h1>
 <h3 align="center">A computer science student who is excited to learn and grow my skills!</h3>
 
-- 🔭 I’m currently working on **Completing my Bachelor of Computer Science at the University of Alberta**
+- I’m currently working on **Completing my Bachelor of Computer Science at the University of Alberta**
 
-- 🌱 I’m currently learning **Database management with SQLite and assembly-level programming**
+- I’m currently learning **Database management with SQLite and assembly-level programming**
 
-- 📫 Reach me at **ethanchung936@gmail.com**
+- Reach me at **ethanchung936@gmail.com**
 
-- 👨‍💻 Below you will find a collection of my personal and school projects
+- Below you will find a collection of my personal and school projects
 <p align="left">
 </p>
 
