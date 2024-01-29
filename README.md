@@ -7,6 +7,8 @@
 
 - Reach me at **ethanchung936@gmail.com**
 
+- I developed industrytraining.ca last summer for my internship and was the sole developer on the project
+
 - Below you will find a collection of my personal and school projects
 
 <p align="left">
