@@ -3,11 +3,11 @@
 
 - I'm currently working on **Completing my Bachelor of Computer Science at the University of Alberta**
 
-- I’m currently learning **Android development using Java as well as search algorithms**
+- I’m currently learning **cybersecurity, networking, and improving my web dev skills**
 
 - Reach me at **ethanchung936@gmail.com**
 
-- I developed [industrytraining.ca](https://www.industrytraining.ca) last summer for my internship and was the sole developer on the project
+- I was the sole developer of [industrytraining.ca](https://www.industrytraining.ca) over the summer of 2023
 
 - Below you will find a collection of my personal and school projects
 
